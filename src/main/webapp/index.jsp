@@ -1,12 +1,12 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='black'> Welcome to My Portfolio <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://www.linkedin.com/in/gadagoju-anilkumar/">Click Here To See my Linkedin profile</a>
   
-  <h2> Call Us : + 9985396677</h2>
+  <h2> Call Us : + 9885899175</h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Current Job Role : DevOps Engineer </h3>
 
 </body>
 </html>
